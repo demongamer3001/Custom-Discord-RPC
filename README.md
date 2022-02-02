@@ -1,4 +1,4 @@
-# HOW TO USE
+## HOW TO USE
 
 Run the file using:
 ```bash
