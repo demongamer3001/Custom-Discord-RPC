@@ -1,6 +1,7 @@
 # HOW TO USE
 
-Run the file using:```
+Run the file using:
+```
 python main.py```
 
 Enter your token and your client ID and other details accordingly.
